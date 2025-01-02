@@ -30,13 +30,13 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C#                       15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -52,5 +52,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2025 00:59:54 UTC
+ Last Updated on 02/01/2025 00:54:29 UTC
 <!--END_SECTION:waka-->
