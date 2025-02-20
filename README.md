@@ -1,7 +1,7 @@
 ## Hi, I am Eddie 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2015%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -30,13 +30,13 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C#                       8 hrs 9 mins        █████████████████████████   100.00 % 
+C#                       10 hrs 51 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            8 hrs 9 mins        █████████████████████████   100.00 % 
+Visual Studio            10 hrs 51 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  10 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -52,5 +52,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2025 00:55:18 UTC
+ Last Updated on 20/02/2025 00:55:35 UTC
 <!--END_SECTION:waka-->
