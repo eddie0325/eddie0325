@@ -30,13 +30,13 @@ Sunday                   10 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-YAML                     12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -52,5 +52,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2025 01:06:03 UTC
+ Last Updated on 09/12/2025 01:05:23 UTC
 <!--END_SECTION:waka-->
