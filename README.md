@@ -30,16 +30,13 @@ Sunday                   10 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               7 mins              ████████████████████░░░░░   79.77 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -55,5 +52,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2026 02:50:39 UTC
+ Last Updated on 03/06/2026 02:59:43 UTC
 <!--END_SECTION:waka-->
