@@ -28,17 +28,17 @@ Sunday                   10 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C#                       2 hrs 55 mins       ██████████████░░░░░░░░░░░   57.60 % 
-Markdown                 1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-XAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+C#                       2 hrs 27 mins       █████████████████░░░░░░░░   67.98 % 
+Markdown                 41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+XAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 4 mins        █████████████████████████   100.00 % 
+Claude Code              3 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -54,5 +54,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 01:58:31 UTC
+ Last Updated on 25/07/2026 01:58:22 UTC
 <!--END_SECTION:waka-->
