@@ -1,6 +1,8 @@
 ## Hi, I am Eddie 👋
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C093%20hrs%2012%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -54,5 +56,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 01:58:22 UTC
+ Last Updated on 26/07/2026 02:02:46 UTC
 <!--END_SECTION:waka-->
