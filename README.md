@@ -6,21 +6,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-🌆 Daytime                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-🌃 Evening                25 commits          █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-🌙 Night                  75 commits          ███████████████░░░░░░░░░░   59.06 % 
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+🌆 Daytime                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+🌃 Evening                33 commits          ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+🌙 Night                  79 commits          ██████████████░░░░░░░░░░░   56.83 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   25 commits          █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Tuesday                  35 commits          ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-Wednesday                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Thursday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Sunday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Monday                   29 commits          █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Tuesday                  35 commits          ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+Wednesday                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Thursday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Sunday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
 ```
 
 
@@ -30,31 +30,31 @@ Sunday                   10 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C#                       2 hrs 27 mins       █████████████████░░░░░░░░   67.98 % 
-Markdown                 41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-XAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+C#                       2 hrs 27 mins       ████████████░░░░░░░░░░░░░   48.23 % 
+Git Config               43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+HTML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 37 mins       █████████████████████████   100.00 % 
+Claude Code              5 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               6 repos             ████████████░░░░░░░░░░░░░   46.15 % 
-TypeScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Dockerfile               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+TypeScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Dockerfile               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 26/07/2026 02:02:46 UTC
+ Last Updated on 27/07/2026 02:10:07 UTC
 <!--END_SECTION:waka-->
