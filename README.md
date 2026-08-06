@@ -1,9 +1,9 @@
 ## Hi, I am Eddie 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-928%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-930%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-181%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-184%20hrs%2057%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -32,39 +32,39 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C#                       7 hrs 41 mins       ███████████░░░░░░░░░░░░░░   45.48 % 
-Markdown                 5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.43 % 
-Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-TypeScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Markdown                 8 hrs 19 mins       ████████████░░░░░░░░░░░░░   47.50 % 
+C#                       6 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   37.81 % 
+Other                    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 55 mins      █████████████████████████   100.00 % 
+Claude Code              17 hrs 31 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 55 mins (100.0%)
+⏱ AI Coding Time: 17 hrs 31 mins (100.0%)
 
-✍️ 728 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,912 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 128,784,670 Input Tokens, 389,610 Output Tokens
+🔤 158,310,286 Input Tokens, 438,527 Output Tokens
 
-💵 $644.00 Estimated AI Cost This Week
+💵 $827.94 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 154 AI Prompts
+🧠 29 AI Sessions, 166 AI Prompts
 
-Opus                     780 lines           ███████████████████████░░   92.20 % 
-Sonnet                   66 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Opus                     1,976 lines         ████████████████████████░   97.39 % 
+Sonnet                   53 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,131 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 1,192 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -81,5 +81,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 01:50:38 UTC
+ Last Updated on 06/08/2026 01:52:12 UTC
 <!--END_SECTION:waka-->
