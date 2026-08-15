@@ -1,9 +1,9 @@
 ## Hi, I am Eddie 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-958%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-962%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%2016%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -32,39 +32,39 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C#                       10 hrs 56 mins      ███████████░░░░░░░░░░░░░░   44.68 % 
-Markdown                 8 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   36.74 % 
-Other                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Text                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-PowerShell               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+C#                       10 hrs 15 mins      ███████████░░░░░░░░░░░░░░   43.72 % 
+Markdown                 8 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   38.34 % 
+Other                    1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+PowerShell               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Text                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 25 mins      █████████████████████████   99.74 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Claude Code              23 hrs 24 mins      █████████████████████████   99.85 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Windows                  24 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 27 mins (99.85%)
+⏱ AI Coding Time: 23 hrs 24 mins (99.85%)
 
-✍️ 2,849 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,731 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,626,804 Input Tokens, 744,152 Output Tokens
+🔤 5,869,127 Input Tokens, 793,096 Output Tokens
 
-💵 $115.76 Estimated AI Cost This Week
+💵 $151.70 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 286 AI Prompts
+🧠 42 AI Sessions, 273 AI Prompts
 
-Opus                     2,878 lines         █████████████████████████   99.93 % 
+Opus                     2,985 lines         █████████████████████████   99.93 % 
 Sonnet                   2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,107 characters per prompt
+📄 Detailed Prompter — average 1,208 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -82,5 +82,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 01:15:47 UTC
+ Last Updated on 15/08/2026 00:47:49 UTC
 <!--END_SECTION:waka-->
