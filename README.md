@@ -1,9 +1,9 @@
 ## Hi, I am Eddie 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C000%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C009%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-270%20hrs%2053%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -32,45 +32,45 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Swift                    13 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   31.61 % 
-Markdown                 13 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   31.34 % 
-Other                    5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-C#                       5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-TOML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Swift                    16 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   37.32 % 
+Markdown                 15 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   34.81 % 
+Other                    5 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+C#                       3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Python                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-Claude Code              32 hrs 56 mins      ████████████████████░░░░░   78.35 % 
-Codex Mcp                8 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Codex Exec               46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Claude Code              32 hrs 37 mins      ███████████████████░░░░░░   74.29 % 
+Codex Mcp                10 hrs 22 mins      ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+Codex Exec               46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Mac                      21 hrs 57 mins      █████████████░░░░░░░░░░░░   52.20 % 
-Windows                  20 hrs 6 mins       ████████████░░░░░░░░░░░░░   47.80 % 
+Mac                      27 hrs 18 mins      ████████████████░░░░░░░░░   62.18 % 
+Windows                  16 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   37.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 3 mins (100.0%)
+⏱ AI Coding Time: 43 hrs 55 mins (100.0%)
 
-✍️ 16,125 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 15,855 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 36,052,729 Input Tokens, 4,415,647 Output Tokens
+🔤 37,403,718 Input Tokens, 4,664,370 Output Tokens
 
-💵 $904.07 Estimated AI Cost This Week
+💵 $899.08 Estimated AI Cost This Week
 
-🧠 157 AI Sessions, 671 AI Prompts
+🧠 170 AI Sessions, 611 AI Prompts
 
-GPT                      9,296 lines         ██████████████░░░░░░░░░░░   54.53 % 
-Opus                     4,109 lines         ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-Sonnet                   2,757 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Fable                    875 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Haiku                    9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+GPT                      12,867 lines        ███████████████████░░░░░░   75.83 % 
+Opus                     3,433 lines         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Fable                    611 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Sonnet                   58 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Codex-Mcp                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,497 characters per prompt
+📚 Verbose Prompter — average 3,004 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -88,5 +88,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 00:51:11 UTC
+ Last Updated on 27/08/2026 06:28:06 UTC
 <!--END_SECTION:waka-->
