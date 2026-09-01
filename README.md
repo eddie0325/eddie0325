@@ -32,47 +32,47 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Swift                    15 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   36.91 % 
-Markdown                 13 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   32.21 % 
-Other                    4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-C#                       3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Python                   1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Swift                    15 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   37.08 % 
+Markdown                 13 hrs 2 mins       ████████░░░░░░░░░░░░░░░░░   30.84 % 
+Other                    4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+C#                       4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Python                   1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🔥 Editors: 
-Claude Code              31 hrs 26 mins      ███████████████████░░░░░░   75.93 % 
-Codex Mcp                9 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-Codex Exec               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-VS Code                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Codex CLI                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Claude Code              31 hrs 44 mins      ███████████████████░░░░░░   75.05 % 
+Codex Mcp                9 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+Codex Exec               32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+VS Code                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Codex CLI                17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Mac                      25 hrs 47 mins      ████████████████░░░░░░░░░   62.31 % 
-Windows                  15 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   37.69 % 
+Mac                      27 hrs 7 mins       ████████████████░░░░░░░░░   64.16 % 
+Windows                  15 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   35.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 24 mins (100.0%)
+⏱ AI Coding Time: 42 hrs 17 mins (100.0%)
 
-✍️ 12,788 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 12,519 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 38,730,413 Input Tokens, 3,871,791 Output Tokens
+🔤 37,869,372 Input Tokens, 3,194,349 Output Tokens
 
-💵 $714.74 Estimated AI Cost This Week
+💵 $653.43 Estimated AI Cost This Week
 
-🧠 167 AI Sessions, 471 AI Prompts
+🧠 195 AI Sessions, 424 AI Prompts
 
-GPT                      9,426 lines         █████████████████░░░░░░░░   69.07 % 
-Opus                     3,589 lines         ███████░░░░░░░░░░░░░░░░░░   26.30 % 
-Fable                    567 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Sonnet                   65 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+GPT                      10,029 lines        ███████████████████░░░░░░   75.76 % 
+Opus                     2,512 lines         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Fable                    634 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Sonnet                   63 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 Codex-Mcp                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,188 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 3,754 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -89,5 +89,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 02:42:47 UTC
+ Last Updated on 01/09/2026 02:54:48 UTC
 <!--END_SECTION:waka-->
