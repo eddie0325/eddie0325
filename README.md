@@ -1,9 +1,9 @@
 ## Hi, I am Eddie 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C235%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C251%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-520%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-536%20hrs%2014%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -32,46 +32,46 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Swift                    24 hrs 49 mins      ███████████░░░░░░░░░░░░░░   44.06 % 
-Markdown                 19 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   34.67 % 
-Other                    6 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Kotlin                   1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-C#                       55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Swift                    27 hrs 33 mins      ███████████░░░░░░░░░░░░░░   44.35 % 
+Markdown                 21 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   35.27 % 
+Other                    4 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Bash                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+JavaScript               1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 Editors: 
-Codex Exec               27 hrs 44 mins      ████████████░░░░░░░░░░░░░   49.24 % 
-Claude Code              27 hrs 16 mins      ████████████░░░░░░░░░░░░░   48.43 % 
-Codex Mcp                1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Codex CLI                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Codex Exec               32 hrs 59 mins      █████████████░░░░░░░░░░░░   53.11 % 
+Claude Code              26 hrs 46 mins      ███████████░░░░░░░░░░░░░░   43.09 % 
+Codex Mcp                2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Codex CLI                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      54 hrs 2 mins       ████████████████████████░   95.91 % 
-Windows                  2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Mac                      60 hrs 23 mins      ████████████████████████░   97.21 % 
+Windows                  1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 hrs 20 mins (100.0%)
+⏱ AI Coding Time: 62 hrs 7 mins (100.0%)
 
-✍️ 97,001 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 100,923 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 150,607,235 Input Tokens, 13,272,354 Output Tokens
+🔤 190,107,812 Input Tokens, 16,132,828 Output Tokens
 
-💵 $2552.81 Estimated AI Cost This Week
+💵 $3089.45 Estimated AI Cost This Week
 
-🧠 632 AI Sessions, 1067 AI Prompts
+🧠 660 AI Sessions, 1198 AI Prompts
 
-GPT                      88,798 lines        ██████████████████████░░░   86.69 % 
-Opus                     12,386 lines        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Fable                    1,232 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Sonnet                   21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+GPT                      97,039 lines        ███████████████████████░░   90.38 % 
+Opus                     9,542 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Fable                    777 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Sonnet                   5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,841 characters per prompt
+📚 Verbose Prompter — average 5,765 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -89,5 +89,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 03:25:28 UTC
+ Last Updated on 02/10/2026 03:26:03 UTC
 <!--END_SECTION:waka-->
