@@ -1,9 +1,9 @@
 ## Hi, I am Eddie 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C341%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C359%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-637%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-657%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -32,46 +32,46 @@ Sunday                   94 commits          ██████████░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 23 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
-Swift                    18 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-Other                    6 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Python                   4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-C#                       2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Markdown                 29 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   40.49 % 
+Swift                    22 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   31.94 % 
+Other                    5 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Python                   4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+C#                       1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-Claude Code              32 hrs 58 mins      █████████████░░░░░░░░░░░░   52.99 % 
-Codex Exec               28 hrs 29 mins      ███████████░░░░░░░░░░░░░░   45.78 % 
-Codex Vscode             37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Codex CLI                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Claude Code              37 hrs 56 mins      █████████████░░░░░░░░░░░░   52.79 % 
+Codex Exec               33 hrs 8 mins       ████████████░░░░░░░░░░░░░   46.11 % 
+Codex Vscode             39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Codex CLI                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      58 hrs 7 mins       ███████████████████████░░   93.39 % 
-Windows                  4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Mac                      68 hrs 21 mins      ████████████████████████░   95.13 % 
+Windows                  3 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 62 hrs 14 mins (100.0%)
+⏱ AI Coding Time: 71 hrs 51 mins (100.0%)
 
-✍️ 95,862 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 110,766 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 218,097,094 Input Tokens, 18,655,935 Output Tokens
+🔤 257,670,785 Input Tokens, 22,070,759 Output Tokens
 
-💵 $3336.81 Estimated AI Cost This Week
+💵 $3914.98 Estimated AI Cost This Week
 
-🧠 707 AI Sessions, 2516 AI Prompts
+🧠 828 AI Sessions, 3084 AI Prompts
 
-GPT                      84,587 lines        ████████████████████░░░░░   81.41 % 
-Opus                     18,721 lines        █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Codex-Exec               595 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Sonnet                   2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      99,960 lines        █████████████████████░░░░   83.34 % 
+Opus                     19,370 lines        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Codex-Exec               595 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Sonnet                   11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,403 characters per prompt
+📚 Verbose Prompter — average 7,395 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -89,5 +89,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 02:57:47 UTC
+ Last Updated on 15/10/2026 02:37:08 UTC
 <!--END_SECTION:waka-->
