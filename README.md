@@ -1,9 +1,9 @@
 ## Hi, I am Eddie 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C542%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C549%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-874%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-889%20hrs%2012%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -32,46 +32,46 @@ Sunday                   96 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 42 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   30.01 % 
-Swift                    38 hrs 44 mins      ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-Other                    34 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-Python                   8 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Text                     6 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Markdown                 39 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   30.24 % 
+Other                    33 hrs 44 mins      ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+Swift                    31 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Python                   8 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Text                     5 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 🔥 Editors: 
-Claude Code              90 hrs 14 mins      ████████████████░░░░░░░░░   63.20 % 
-Codex Exec               50 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   35.62 % 
-Codex Vscode             1 hr 34 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Codex CLI                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Claude Code              81 hrs 18 mins      ████████████████░░░░░░░░░   62.52 % 
+Codex Exec               47 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   36.19 % 
+Codex Vscode             1 hr 34 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Codex CLI                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      131 hrs 40 mins     ███████████████████████░░   92.20 % 
-Windows                  11 hrs 7 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Mac                      119 hrs 35 mins     ███████████████████████░░   91.95 % 
+Windows                  10 hrs 28 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 142 hrs 48 mins (100.0%)
+⏱ AI Coding Time: 130 hrs 3 mins (100.0%)
 
-✍️ 155,477 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 147,468 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 368,743,782 Input Tokens, 31,982,306 Output Tokens
+🔤 338,906,367 Input Tokens, 30,697,151 Output Tokens
 
-💵 $6374.96 Estimated AI Cost This Week
+💵 $6145.58 Estimated AI Cost This Week
 
-🧠 1139 AI Sessions, 5295 AI Prompts
+🧠 1102 AI Sessions, 5149 AI Prompts
 
-GPT                      145,307 lines       ████████████████████░░░░░   80.90 % 
-Opus                     34,266 lines        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Sonnet                   38 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+GPT                      141,312 lines       ████████████████████░░░░░   81.36 % 
+Opus                     32,334 lines        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Sonnet                   36 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 8,383 characters per prompt
+📚 Verbose Prompter — average 8,901 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -89,5 +89,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 02:35:38 UTC
+ Last Updated on 26/10/2026 02:34:35 UTC
 <!--END_SECTION:waka-->
