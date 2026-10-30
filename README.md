@@ -1,9 +1,9 @@
 ## Hi, I am Eddie 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C551%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C551%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-909%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-915%20hrs%202%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -32,47 +32,45 @@ Sunday                   96 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    36 hrs 51 mins      ███████████░░░░░░░░░░░░░░   43.06 % 
-Markdown                 18 hrs 57 mins      ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-Swift                    15 hrs 32 mins      █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-Python                   5 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Bash                     3 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Other                    37 hrs 38 mins      ██████████████░░░░░░░░░░░   57.38 % 
+Markdown                 11 hrs 21 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Swift                    8 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Python                   3 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Bash                     2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🔥 Editors: 
-Claude Code              55 hrs 2 mins       ████████████████░░░░░░░░░   64.32 % 
-Codex Exec               29 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   34.68 % 
-Codex Vscode             49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude Code              48 hrs 7 mins       ██████████████████░░░░░░░   73.24 % 
+Codex Exec               16 hrs 55 mins      ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+Codex Vscode             39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-Mac                      84 hrs 42 mins      █████████████████████████   98.99 % 
-Windows                  51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Mac                      65 hrs 35 mins      █████████████████████████   99.99 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 85 hrs 34 mins (100.0%)
+⏱ AI Coding Time: 65 hrs 35 mins (100.0%)
 
-✍️ 75,821 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 32,880 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 175,372,867 Input Tokens, 17,791,580 Output Tokens
+🔤 97,050,789 Input Tokens, 9,157,759 Output Tokens
 
-💵 $3681.03 Estimated AI Cost This Week
+💵 $2369.48 Estimated AI Cost This Week
 
-🧠 669 AI Sessions, 3321 AI Prompts
+🧠 398 AI Sessions, 2345 AI Prompts
 
-GPT                      84,981 lines        █████████████████████░░░░   85.93 % 
-Opus                     13,913 lines        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Sonnet                   4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      49,930 lines        ██████████████████████░░░   89.54 % 
+Opus                     5,831 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Sonnet                   4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 11,844 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 14,475 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -89,5 +87,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 03:45:44 UTC
+ Last Updated on 30/10/2026 03:48:47 UTC
 <!--END_SECTION:waka-->
