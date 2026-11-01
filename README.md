@@ -1,9 +1,9 @@
 ## Hi, I am Eddie 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C551%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C552%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-917%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-920%20hrs%2025%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -32,42 +32,38 @@ Sunday                   96 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    33 hrs 2 mins       ██████████████████░░░░░░░   72.52 % 
-Markdown                 5 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Swift                    2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-YAML                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Python                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Other                    27 hrs 13 mins      █████████████████████░░░░   85.14 % 
+Markdown                 2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+YAML                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Swift                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Text                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-Claude Code              41 hrs 18 mins      ███████████████████████░░   90.65 % 
-Codex Exec               4 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Claude Code              31 hrs 58 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      45 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 hrs 34 mins (100.0%)
+⏱ AI Coding Time: 31 hrs 58 mins (100.0%)
 
-✍️ 13,566 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 96 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 70,262,379 Input Tokens, 4,309,955 Output Tokens
+🔤 42,635,885 Input Tokens, 1,313,160 Output Tokens
 
-💵 $857.00 Estimated AI Cost This Week
+💵 $370.71 Estimated AI Cost This Week
 
-🧠 208 AI Sessions, 1971 AI Prompts
+🧠 136 AI Sessions, 1457 AI Prompts
 
-GPT                      13,727 lines        ██████████████████████░░░   87.02 % 
-Opus                     2,046 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Sonnet                   2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Opus                     97 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 21,016 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 24,636 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -84,5 +80,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 03:31:47 UTC
+ Last Updated on 01/11/2026 03:38:12 UTC
 <!--END_SECTION:waka-->
